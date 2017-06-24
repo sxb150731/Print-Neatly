@@ -1,0 +1,30 @@
+File		M	Output
+------------------------------
+decl.txt	69	808
+decl.txt	66	5076
+
+fh.txt		71	20
+fh.txt		56	1948
+
+kots.txt	68	283
+kots.txt	50	1980
+
+lincoln.txt	66	428
+lincoln.txt	59	2338
+
+solt.txt	74	154
+solt.txt	62	1707
+
+Full output for solt.txt, M=78:
+1106
+
+Marcel Proust,  in  "Search  of Lost  Time":  We believe  that  we can  change
+the things around  us in accordance  with  our desires—we  believe  it because
+otherwise we can  see no favourable  outcome. We  do not think  of the outcome
+which generally  comes to pass and  is also favourable:  we do  not succeed in
+changing things  in accordance  with our  desires, but  gradually  our desires
+change. The  situation  that we hoped  to change  because  it was  intolerable
+becomes unimportant to us. We have failed to surmount the obstacle, as we were
+absolutely determined to do, but life has taken us round it, led us beyond it,
+and then if we turn round to gaze into the distance of the past, we can barely
+see it, so imperceptible has it become.
